@@ -1,0 +1,17 @@
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\electron.manifest.json
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\Assets\electron.ico
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\Assets\electron_32x32.png
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\hostpolicy.dll
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\hostfxr.dll
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.exe
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.deps.json
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.runtimeconfig.json
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.runtimeconfig.dev.json
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.dll
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.pdb
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.csprojAssemblyReference.cache
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.csproj.CoreCompileInputs.cache
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.AssemblyInfoInputs.cache
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.AssemblyInfo.cs
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.dll
+C:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\win-x64\ElectronNET-API-Demos.pdb

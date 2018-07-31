@@ -1,0 +1,14 @@
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\electron.manifest.json
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\Assets\electron.ico
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\Assets\electron_32x32.png
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\ElectronNET-API-Demos.deps.json
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\ElectronNET-API-Demos.runtimeconfig.json
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\ElectronNET-API-Demos.runtimeconfig.dev.json
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\ElectronNET-API-Demos.dll
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\bin\Debug\netcoreapp2.0\ElectronNET-API-Demos.pdb
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\ElectronNET-API-Demos.csprojAssemblyReference.cache
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\ElectronNET-API-Demos.csproj.CoreCompileInputs.cache
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\ElectronNET-API-Demos.AssemblyInfoInputs.cache
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\ElectronNET-API-Demos.AssemblyInfo.cs
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\ElectronNET-API-Demos.dll
+c:\Users\kisek\OneDrive\electron.net-api-demos\ElectronNET-API-Demos\obj\Debug\netcoreapp2.0\ElectronNET-API-Demos.pdb
